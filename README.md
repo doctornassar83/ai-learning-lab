@@ -1,4 +1,4 @@
-# AI Mega Course
+# AI Learning Lab
 
 A full Python AI development environment using:
 
@@ -14,12 +14,11 @@ A full Python AI development environment using:
 # 1. Start fresh
 
 ```bash
-cd ..
-rm -rf ai_mega_course
+cd "/Volumes/Ai Agents"
 ls
 
-uv init ai_mega_course
-cd ai_mega_course
+uv init ai_learning_lab
+cd ai_learning_lab
 ```
 
 ---

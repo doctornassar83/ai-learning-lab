@@ -1,7 +1,7 @@
 [project]
-name = "ai-mega-course"
+name = "ai-learning-lab"
 version = "0.1.0"
-description = "AI mega course environment with LLMs, RAG, local models, and ML tooling"
+description = "AI learning lab environment with LLMs, RAG, local models, and ML tooling"
 readme = "README.md"
 
 
